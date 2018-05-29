@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Присосалик присосался</title>
+	<title>Гирудик присосался</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="assets/prisosalik.css">
 </head>
@@ -15,7 +15,7 @@
 				<img class="leech-status" src="assets/on.png"></img>
 			</td>
 			<td class="info">
-				<h1><a target="_blank" href="http://0chanru.net/b">Присосалик присосался.</a></h1>
+				<h1><a target="_blank" href="http://0-chanru.net/b">Гирудик присосался.</a></h1>
 			</td>
 		</tr>
 	</table>
